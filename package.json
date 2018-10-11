@@ -1,0 +1,24 @@
+{
+  "name": "simple-machine-learning-app",
+  "version": "1.0.0",
+  "description": "A simple machine learning app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dorronzherka/simple-machine-learning-app.git"
+  },
+  "author": "Dorron Zherka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dorronzherka/simple-machine-learning-app/issues"
+  },
+  "homepage": "https://github.com/dorronzherka/simple-machine-learning-app#readme",
+  "dependencies": {
+    "brain.js": "^1.2.6",
+    "cli-progress": "^2.1.0"
+  },
+  "devDependencies": {}
+}

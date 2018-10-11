@@ -1,0 +1,427 @@
+[
+  {
+    "name": "Adamat",
+    "gender": "Male"
+  },
+  {
+    "name": "Adan",
+    "gender": "Male"
+  },
+  {
+    "name": "Bacol",
+    "gender": "Male"
+  },
+
+  {
+    "name": "Bamir",
+    "gender": "Male"
+  },
+  {
+    "name": "Cakol",
+    "gender": "Male"
+  },
+  {
+    "name": "Cem",
+    "gender": "Male"
+  },
+  {
+    "name": "Dorron",
+    "gender": "Male"
+  },
+  {
+    "name": "Dardan",
+    "gender": "Male"
+  },
+  {
+    "name": "Erlind",
+    "gender": "Male"
+  },
+  {
+    "name": "Entor",
+    "gender": "Male"
+  },
+  {
+    "name": "Fajkor",
+    "gender": "Male"
+  },
+  {
+    "name": "Fisnik",
+    "gender": "Male"
+  },
+  {
+    "name": "Gazmend",
+    "gender": "Male"
+  },
+  {
+    "name": "Gentian",
+    "gender": "Male"
+  },
+  {
+    "name": "Hekuran",
+    "gender": "Male"
+  },
+  {
+    "name": "Hieshor",
+    "gender": "Male"
+  },
+  {
+    "name": "Idlir",
+    "gender": "Male"
+  },
+  {
+    "name": "Ilir",
+    "gender": "Male"
+  },
+  {
+    "name": "Jel",
+    "gender": "Male"
+  },
+  {
+    "name": "Jetnor",
+    "gender": "Male"
+  },
+  {
+    "name": "Kacanik",
+    "gender": "Male"
+  },
+  {
+    "name": "Kodran",
+    "gender": "Male"
+  },
+  {
+    "name": "Labet",
+    "gender": "Male"
+  },
+  {
+    "name": "Laidin",
+    "gender": "Male"
+  },
+  {
+    "name": "Adamat",
+    "gender": "Male"
+  },
+  {
+    "name": "Madak",
+    "gender": "Male"
+  },
+  {
+    "name": "Malor",
+    "gender": "Male"
+  },
+  {
+    "name": "Nand",
+    "gender": "Male"
+  },
+  {
+    "name": "Nderim",
+    "gender": "Male"
+  },
+  {
+    "name": "Oimir",
+    "gender": "Male"
+  },
+  {
+    "name": "Olt",
+    "gender": "Male"
+  },
+  {
+    "name": "Pajtim",
+    "gender": "Male"
+  },
+  {
+    "name": "Pellazg",
+    "gender": "Male"
+  },
+  {
+    "name": "Qershor",
+    "gender": "Male"
+  },
+  {
+    "name": "Qendrim",
+    "gender": "Male"
+  },
+  {
+    "name": "Rapsod",
+    "gender": "Male"
+  },
+  {
+    "name": "Rron",
+    "gender": "Male"
+  },
+  {
+    "name": "Sabon",
+    "gender": "Male"
+  },
+  {
+    "name": "Sharr",
+    "gender": "Male"
+  },
+  {
+    "name": "Tad",
+    "gender": "Male"
+  },
+  {
+    "name": "Teit",
+    "gender": "Male"
+  },
+  {
+    "name": "Urim",
+    "gender": "Male"
+  },
+  {
+    "name": "Ulkan",
+    "gender": "Male"
+  },
+  {
+    "name": "Valmir",
+    "gender": "Male"
+  },
+  {
+    "name": "Vlerush",
+    "gender": "Male"
+  },
+  {
+    "name": "Xixellon",
+    "gender": "Male"
+  },
+  {
+    "name": "Xaxan",
+    "gender": "Male"
+  },
+  {
+    "name": "Yll",
+    "gender": "Male"
+  },
+  {
+    "name": "Ylber",
+    "gender": "Male"
+  },
+  {
+    "name": "Zambak",
+    "gender": "Male"
+  },
+  {
+    "name": "Zymbul",
+    "gender": "Male"
+  },
+  {
+    "name": "Albulena",
+    "gender": "Female"
+  },
+  {
+    "name": "Agnesa",
+    "gender": "Female"
+  },
+  {
+    "name": "Baresha",
+    "gender": "Female"
+  },
+  {
+    "name": "Besiana",
+    "gender": "Female"
+  },
+  {
+    "name": "Cucja",
+    "gender": "Female"
+  },
+  {
+    "name": "Cale",
+    "gender": "Female"
+  },
+  {
+    "name": "Dafina",
+    "gender": "Female"
+  },
+  {
+    "name": "Delfine",
+    "gender": "Female"
+  },
+  {
+    "name": "Albulena",
+    "gender": "Female"
+  },
+  {
+    "name": "Earta",
+    "gender": "Female"
+  },
+  {
+    "name": "Edita",
+    "gender": "Female"
+  },
+  {
+    "name": "Fatbardha",
+    "gender": "Female"
+  },
+  {
+    "name": "Festime",
+    "gender": "Female"
+  },
+  {
+    "name": "Albulena",
+    "gender": "Female"
+  },
+  {
+    "name": "Gazmende",
+    "gender": "Female"
+  },
+  {
+    "name": "Gentiana",
+    "gender": "Female"
+  },
+  {
+    "name": "Harmonia",
+    "gender": "Female"
+  },
+  {
+    "name": "Heorike",
+    "gender": "Female"
+  },
+  {
+    "name": "Idile",
+    "gender": "Female"
+  },
+  {
+    "name": "Iliria",
+    "gender": "Female"
+  },
+  {
+    "name": "Jehona",
+    "gender": "Female"
+  },
+  {
+    "name": "Jona",
+    "gender": "Female"
+  },
+  {
+    "name": "Albulena",
+    "gender": "Female"
+  },
+  {
+    "name": "Kaona",
+    "gender": "Female"
+  },
+  {
+    "name": "Klemetine",
+    "gender": "Female"
+  },
+  {
+    "name": "Labeate",
+    "gender": "Female"
+  },
+  {
+    "name": "Laura",
+    "gender": "Female"
+  },
+  {
+    "name": "Majlinda",
+    "gender": "Female"
+  },
+  {
+    "name": "Male",
+    "gender": "Female"
+  },
+  {
+    "name": "Natyra",
+    "gender": "Female"
+  },
+  {
+    "name": "Nentore",
+    "gender": "Female"
+  },
+  {
+    "name": "Oresa",
+    "gender": "Female"
+  },
+  {
+    "name": "Orkideja",
+    "gender": "Female"
+  },
+  {
+    "name": "Pajtime",
+    "gender": "Female"
+  },
+  {
+    "name": "Pranvera",
+    "gender": "Female"
+  },
+  {
+    "name": "Qershina",
+    "gender": "Female"
+  },
+  {
+    "name": "Qendrese",
+    "gender": "Female"
+  },
+  {
+    "name": "Albulena",
+    "gender": "Female"
+  },
+  {
+    "name": "Rinore",
+    "gender": "Female"
+  },
+  {
+    "name": "Rrezja",
+    "gender": "Female"
+  },
+  {
+    "name": "Samire",
+    "gender": "Female"
+  },
+  {
+    "name": "Shega",
+    "gender": "Female"
+  },
+  {
+    "name": "Albulena",
+    "gender": "Female"
+  },
+  {
+    "name": "Tanushe",
+    "gender": "Female"
+  },
+  {
+    "name": "Teuta",
+    "gender": "Female"
+  },
+  {
+    "name": "Ujza",
+    "gender": "Female"
+  },
+  {
+    "name": "Urte",
+    "gender": "Female"
+  },
+  {
+    "name": "Valza",
+    "gender": "Female"
+  },
+  {
+    "name": "Velore",
+    "gender": "Female"
+  },
+  {
+    "name": "Ylbere",
+    "gender": "Female"
+  },
+  {
+    "name": "Yllka",
+    "gender": "Female"
+  },
+  {
+    "name": "Xixa",
+    "gender": "Female"
+  },
+  {
+    "name": "Xixellore",
+    "gender": "Female"
+  },
+  {
+    "name": "Zaimina",
+    "gender": "Female"
+  },
+  {
+    "name": "Zane",
+    "gender": "Female"
+  }
+]
